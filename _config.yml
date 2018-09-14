@@ -40,7 +40,7 @@ email: jungae.son.kr@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "https://jason1651.github.io/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
 url: "https://jason1651.github.io" # the base hostname & protocol for your site
 
 # Social settings
